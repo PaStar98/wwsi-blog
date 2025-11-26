@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/posts/[id]/page": "app/posts/[id]/page.js",
+  "/api/posts/[id]/comments/route": "app/api/posts/[id]/comments/route.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/moderator/page": "app/moderator/page.js",
+  "/api/comments/[id]/approve/route": "app/api/comments/[id]/approve/route.js",
+  "/api/ALL_PENDING/route": "app/api/ALL_PENDING/route.js"
+}
